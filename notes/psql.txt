@@ -1,0 +1,6 @@
+psql -U postgres
+
+\l -> view all db
+\c db_name -> connect
+\dt -> view list of tables
+\q -> exit
